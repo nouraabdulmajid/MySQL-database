@@ -6,7 +6,7 @@ This MySQL database was developed as part of the 'Intro to Data and SQL' course 
 
 The idea for the topic of the database is my own, but the features to include within the database include were specified by Code First Girls.
 
-Below you will find presentation slides explaining the database and its features, as well as an EER diagram.
+Below you will find 17 presentation slides explaining the database and its features, followed by an EER diagram providing an overview of the database.
 
 Thanks for visiting!
 
