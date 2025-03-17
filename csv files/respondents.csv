@@ -1,0 +1,45 @@
+respondent_ID,relationship_to_child,child_ID,guardian_ID
+1,Parent/ guardian,1,1
+2,Parent/ guardian,4,2
+3,Parent/ guardian,7,3
+4,Parent/ guardian,6,5
+5,Parent/ guardian,12,26
+6,Parent/ guardian,12,7
+7,Parent/ guardian,19,8
+8,Parent/ guardian,16,9
+9,Parent/ guardian,15,10
+10,Parent/ guardian,49,11
+11,Parent/ guardian,30,12
+12,Parent/ guardian,47,13
+13,Parent/ guardian,20,14
+14,Parent/ guardian,14,15
+15,Parent/ guardian,9,16
+16,Parent/ guardian,28,17
+17,Parent/ guardian,17,18
+18,Parent/ guardian,10,20
+19,Parent/ guardian,5,21
+20,Parent/ guardian,48,22
+21,Self,1,\N
+22,Self,2,\N
+23,Self,3,\N
+24,Self,4,\N
+25,Self,5,\N
+26,Self,6,\N
+27,Self,7,\N
+28,Self,8,\N
+29,Self,9,\N
+30,Self,10,\N
+31,Self,11,\N
+32,Self,12,\N
+33,Self,13,\N
+34,Self,14,\N
+35,Self,15,\N
+36,Self,17,\N
+37,Self,18,\N
+38,Self,19,\N
+39,Self,20,\N
+40,Self,21,\N
+41,Self,22,\N
+42,Self,23,\N
+43,Self,24,\N
+44,Self,26,\N

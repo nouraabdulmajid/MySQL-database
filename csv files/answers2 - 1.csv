@@ -1,0 +1,45 @@
+response_ID,respondent_ID,A1,A2,A3,A4,A5
+2,1,Business owner,Unsatisfied,Poor,Good,38000
+1,2,Lawyer,Very Satisfied,Very Good,Very Good,80000
+3,3,Unemployed,Unsatisfied,Poor,Poor,12000
+5,4,Software Engineer,Very Satisfied,Good,Very Good,70000
+4,5,Street Vendor,Unsatisfied,Poor,Good,25000
+11,6,Mechanial Engineer,Satisfied,poor,good,40000
+7,7,Interior Decorator,Very satisfied,good,very good,65000
+10,8,Pharmacist,Unsatisfied,poor,poor,43000
+9,9,Travel agent,Unsatisfied,poor,good,28000
+8,10,Business owner,Satisfied,good,very good,82000
+13,11,Support worker,Satisfied,poor,outstanding,28000
+12,12,Biomedical Engineer,Very satisfied,very good,poor,63000
+14,13,Lawyer,satisfied,good,good,70000
+15,14,Dentist,unsatisfied,poor,good,71000
+16,15,Medical secretary,unsatisfied,poor,good,27000
+18,16,Schoolteacher,unsatisfied,good,poor,35000
+19,17,Investment banker,satisfied,very good,poor,78000
+20,18,Unemployed,unsaft,poor,good,0
+22,19,Architect,Unsatisfied,good,poor,37000
+21,20,Business analyst,satisfied,good,good,37000
+17,21,Counsellor,satisfied,poor,poor,45000
+27,22,Academic,Very Satisfied,outstanding,very good,43000
+28,23,Accountant,unsatisfied,poor,good,39000
+29,24,Business analyst,satisfied,good,very good,50000
+30,25,Unemployed,satisfied,very poor,good,0
+31,26,Software Engineer,unsatisfied,outstanding,very good,59000
+35,27,Beauty technician,unsatisfied,very poor,very good,40000
+36,28,Architect,satisfied,poor,good,36000
+24,29,Driving instructor,satisfied,poor,poor,52000
+33,30,Optician,very unsatisfied,very poor,good,48000
+34,31,Academic,extremely satisfied,very good,outstanding,58000
+37,32,Pilot,satisfied,very god,very good,60000
+38,33,Data scientist,extremely satisfied,good,very good,92000
+25,34,Diving instructor,satisfied,good,poor,27000
+39,35,Business owner,unsatisfied,poor,very good,95000
+40,36,Scuba diving instructor,very satisfied,poor,very good,47000
+23,37,Sportsperson,satisfied,good,poor,33000
+32,38,Data scientist,unsatisfied,very poor,very good,58000
+41,39,Operations manager,very satisfied,outstanding,very good,60000
+26,40,Healthcare assistant,unsatisfied,good,very poor,26000
+42,41,Project manager,unsatisfied,good,good,45000
+43,42,Delivery services,unsatisfied,poor,very poor,34000
+44,43,Product manager,very satisfied,good,outstanding,48000
+6,44,Car Salesman,unsatisfied ,poor,very good,38000
