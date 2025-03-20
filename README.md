@@ -9,12 +9,9 @@ The idea for the topic of the database is my own, but the features we were requi
 *Please note that while I generally aim not to use AI tools in projects that I feature here, AI tools have been used for debugging purposes, and to detect and resolve problems, in the code in this particular repository; code from AI tools that was suggested as a fix to bugs and issues in the code, has been used in this particular repository.*
 
 ### <ins>The idea</ins>
-The idea behind my project was to develop a database that can store data about the results of a questionnaire which is used to gather information about childhood literacy and future career success; it can also perform operations on this data, to find patterns between childhood literacy and future success. As someone who read a lot as a child, childhood literacy is a topic that interests me. Dummy data has been used in the database. 
-
+The idea behind my project was to develop a database that can store data about the results of a questionnaire which is used to gather information about childhood literacy and future career success; it can also perform operations on this data, to find the relationship between the two. As someone who read a lot as a child, childhood literacy is a topic that interests me. Dummy data has been used in the database. 
 
 Below you will find 17 presentation slides providing an overview of the database's features, followed by an EER diagram providing an overview of the database.
-
-Thanks for visiting!
 
 ### <ins> Project presentation </ins>
 
