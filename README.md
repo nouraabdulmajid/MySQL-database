@@ -107,6 +107,7 @@ The database contains ten tables; please see the EER diagram below for an overvi
 
 ### <ins> Outstanding work </ins>
 The following work is yet to be completed for this project:
-* To clean up the code and make it more readable
+* Provide a guide to get started in the readme file
+* Clean up the code and make it more readable
 
 
