@@ -2,7 +2,7 @@
 
 Welcome to my MySQL database project page!
 
-This MySQL database was developed as part of the 'Intro to Data and SQL' course by Code First Girls, which ran from October 2023 - January 2024. It was also judged to be the best database out of databases produced by 40+ candidates on the course for the course competition/ assignment, resulting in my recognition as a 'Highly Commended Candidate'.
+This MySQL database was developed as part of the 'Intro to Data and SQL' course by Code First Girls, which ran from October 2023 - January 2024. It was also judged to be the best database out of databases produced by 40+ candidates on the course for the course competition/ assignment, resulting in my recognition as a 'Highly Commended Candidate', which was printed on my course certificate.
 
 The idea for the topic of the database is my own, but the features we were required or advised to include within the database (such as joins and triggers) were specified by Code First Girls. 
 
