@@ -1,12 +1,18 @@
-# Survey-results-database
+# Survey results database
 
 Welcome to my MySQL database project page!
 
-This MySQL database was developed as part of the 'Intro to Data and SQL' course by Code First Girls. It was also judged to be the best database out of databases produced by 40+ candidates on the course for the course competition/ assignment, resulting in my recognition as a 'Highly Commended Candidate'.
+This MySQL database was developed as part of the 'Intro to Data and SQL' course by Code First Girls, which ran from October 2023 - January 2024. It was also judged to be the best database out of databases produced by 40+ candidates on the course for the course competition/ assignment, resulting in my recognition as a 'Highly Commended Candidate'.
 
-The idea for the topic of the database is my own, but the features to include within the database include were specified by Code First Girls.
+The idea for the topic of the database is my own, but the features we were required or advised to include within the database (such as joins and triggers) were specified by Code First Girls. 
 
-Below you will find 17 presentation slides explaining the database and its features, followed by an EER diagram providing an overview of the database.
+*Please note that while I generally aim not to use AI tools in projects that I feature here, AI tools have been used for debugging purposes, and to detect and resolve problems, in the code in this particular repository; code from AI tools that was suggested as a fix to bugs and issues in the code, has been used in this particular repository.*
+
+### <ins>The idea</ins>
+The idea behind my project was to develop a database that can store data about the results of a questionnaire which is used to gather information about childhood literacy and future career success; it can also perform operations on this data, to find patterns between childhood literacy and future success. As someone who read a lot as a child, childhood literacy is a topic that interests me. Dummy data has been used in the database. 
+
+
+Below you will find 17 presentation slides providing an overview of the database's features, followed by an EER diagram providing an overview of the database.
 
 Thanks for visiting!
 
@@ -102,6 +108,8 @@ Thank you for viewing!
 The database contains ten tables; please see the EER diagram below for an overview of the database.
 ![alt text](https://github.com/nouraabdulmajid/Survey-results-database/blob/main/eer%20diagram.png?raw=true)
 
-### <ins> Outsanding work </ins>
+### <ins> Outstanding work </ins>
 The following work is yet to be completed for this project:
 * To clean up the code and make it more readable
+
+
